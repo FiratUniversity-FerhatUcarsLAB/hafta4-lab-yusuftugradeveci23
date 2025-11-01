@@ -1,4 +1,4 @@
-Ad Soyad:Yusuf Tuğra Deveci      Öğrenci Numarası:250541095
+İsim Soyad:Yusuf Tuğra Deveci      Öğrenci Numarası:250541095
 
 
   import java.util.Scanner;
