@@ -34,3 +34,5 @@ public class GeometrikHesap {
 
         input.close();
 
+     // Çıktısı:
+
