@@ -34,5 +34,14 @@ public class GeometrikHesap {
 
         input.close();
 
-     // Çıktısı:
+     // Çıktısı: Dairenin yarıçapını girin : 5,0
+//.....Geometrik Hesaplayıcı.....
+//Dairenin yarıçapını giriniz:5,0
+//Sonuçlar
+//Daire Alanı:  78,54 cm^2
+//Dairenin Çevresi:  31,42 cm
+//Daire Çapı: 10,00 cm
+//Kürenin Hacmi:  523,60 cm^3
+//Küre Yüzey Alanı:  314,16 cm^2
+
 
