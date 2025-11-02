@@ -1,7 +1,8 @@
 // Ad Soyad: Yusuf Tuğra Deveci
 // Öğrenci No:250541095
 // Tarih: 02.11.2025
-// Açıklama:Bu program kullanicidan dairenin yarıçapını alır ve
+// Açıklama: Gorev 2 - Geometrik Hesaplayıcı
+//Bu program kullanicidan dairenin yarıçapını alır ve
  // bu yarıçap değerine göre çeşitli geometrik hesaplamalar yapar.
  // Dairenin alanı, çevresi ve çapı ile kürenin hacmi ve yüzey alanını
 // hesaplayarak sonuçları düzenli bir biçimde ekrana yazdırır.
