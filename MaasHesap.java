@@ -1,7 +1,8 @@
 // Ad Soyad: Yusuf Tuğra Deveci
 // Öğrenci No:250541095
 // Tarih: 02.11.2025
-// Açıklama: Bu program kullanıcıdan çalışanın adını, brüt maaşını,
+// Açıklama:Gorev 3 - Maaş Hesaplayıcı
+//Bu program kullanıcıdan çalışanın adını, brüt maaşını,
  // haftalık çalışma saatini ve mesai saatini alır. 
  // Alınan bilgilere göre SGK, gelir ve damga vergisi kesintilerini
  // hesaplayarak toplam gelir, toplam kesinti ve net maaşı belirler.
